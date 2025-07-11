@@ -25,11 +25,8 @@ Performed EDA and created multiple visualizations
 
 4. What were the key insights?
 📊 Movies dominate over TV Shows on Netflix
-
 📅 Netflix added the most content during 2019–2020
-
 🌍 United States, India, and UK lead in content creation
-
 🎭 Drama, International Movies, and Documentaries are the most frequent genres
 
 5. What challenges did you face?
