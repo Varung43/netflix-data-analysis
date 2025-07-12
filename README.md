@@ -33,12 +33,9 @@ Performed EDA and created multiple visualizations
 Columns like director, cast, country had missing values
 date_added was in string format — required conversion to datetime
 listed_in (genre) contained multiple values in one cell
-
 ✅ I used .fillna(), .dropna(), .explode() and to_datetime() to solve these.
 
 6. What is the outcome?
 Completed a well-documented Jupyter Notebook
 Plotted 5+ meaningful visualizations
-Made the project GitHub-ready with:Screenshots
-README
-Clean folder structure
+
