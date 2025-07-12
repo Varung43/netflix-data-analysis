@@ -65,17 +65,6 @@ Netflix-Analysis-Python/
 │ └── netflix_dashboard.png
 └── README.md
 
-## 📸 Visualizations
-
-### 🎞️ Movies vs TV Shows on Netflix
-![Movies vs TV Shows](images/movies vs tv shows in netflix.jpg)
-
-### 🗓️ Netflix Content Added Each Year
-![Content by Year](images/netflix content added each year.jpg)
-
-### 🌍 Top 10 Countries with Most Netflix Content
-![Top Countries](images/top 10 countries with most netflix content.jpg)
-
 ## ✅ Conclusion
 
 The analysis of Netflix’s dataset provides a clear understanding of its content distribution, historical growth, and user-oriented strategies. It showcases the ability to perform real-world data exploration and visualization using Python.
